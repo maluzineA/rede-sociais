@@ -2,4 +2,6 @@ body {
     background-color: var(--bg-color);
     color: aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+    margin: 0;
 }
